@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section details the assignments for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -49,7 +51,7 @@ Please answer the question in bold type if you are writing a case preparation me
 
 ### Henkel: Building a Winning Culture
 
-Simons, Robert and Natalie Kindred. "{{% resource_link "1a347082-7fe7-47e5-8b54-f703ca5bae64" "Henkel: Building a Winning Culture" %}}." Harvard Business School Case 112-060, February 2012.
+Simons, Robert and Natalie Kindred. "[Henkel: Building a Winning Culture](https://www.hbs.edu/faculty/Pages/item.aspx?num=41466)." Harvard Business School Case 112-060, February 2012.
 
 Preparation questions:
 
@@ -63,7 +65,7 @@ Please answer the question in bold type if you are writing a case preparation me
 
 ### Silvio Napoli at Schindler India
 
-Bartlett, Christopher A., Michael Y. Yoshino, and Perry Fagan. "{{% resource_link "b71f5c13-64c7-42e0-bfbc-c42831939817" "Silvio Napoli at Schindler India (A)" %}}." Harvard Business School Case 303-086, February 2003. (Revised November 2006.)
+Bartlett, Christopher A., Michael Y. Yoshino, and Perry Fagan. "[Silvio Napoli at Schindler India (A)](https://www.hbs.edu/faculty/Pages/item.aspx?num=29632)." Harvard Business School Case 303-086, February 2003. (Revised November 2006.)
 
 Preparation questions:
 
