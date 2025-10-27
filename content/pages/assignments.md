@@ -49,7 +49,7 @@ Please answer the question in bold type if you are writing a case preparation me
 
 ### Henkel: Building a Winning Culture
 
-Simons, Robert and Natalie Kindred. "[Henkel: Building a Winning Culture](https://www.hbs.edu/faculty/Pages/item.aspx?num=41466)." Harvard Business School Case 112-060, February 2012.
+Simons, Robert and Natalie Kindred. "{{% resource_link "84b20ac0-f2b7-45bb-b72c-04746df198cd" "Henkel: Building a Winning Culture" %}}." Harvard Business School Case 112-060, February 2012.
 
 Preparation questions:
 
@@ -63,7 +63,7 @@ Please answer the question in bold type if you are writing a case preparation me
 
 ### Silvio Napoli at Schindler India
 
-Bartlett, Christopher A., Michael Y. Yoshino, and Perry Fagan. "[Silvio Napoli at Schindler India (A)](https://www.hbs.edu/faculty/Pages/item.aspx?num=29632)." Harvard Business School Case 303-086, February 2003. (Revised November 2006.)
+Bartlett, Christopher A., Michael Y. Yoshino, and Perry Fagan. "{{% resource_link "33756e49-e5f6-4c40-a7f3-dae1bdda2034" "Silvio Napoli at Schindler India (A)" %}}." Harvard Business School Case 303-086, February 2003. (Revised November 2006.)
 
 Preparation questions:
 
